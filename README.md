@@ -20,7 +20,7 @@ Step 5 : Display the operations done the input numbers in the terminal.
 ## Program
 ```
 import java.util.Scanner;
-public class Main
+public class CompareNumbers
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
